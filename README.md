@@ -1,37 +1,50 @@
-# Athens
+> I am the wisest man alive, for I know one thing, and that is that I know nothing.
 
-Open-Source [Roam Research](http://roamresearch.com/).
+— Socrates
 
-The [Athens FAQ](https://www.notion.so/athensresearch/Athens-Roadmap-096427f189b648729ae0acbdcefd4c6f) answers questions like:
+# Learn More
 
-- "Why Clojure?"
-- "What's the roadmap?"
-- "What's the tech stack?"
+To learn more about this project, please see:
 
-# Contributing
+- [Vision - individual and collective memexes](https://github.com/athensresearch/athens/blob/master/VISION.md)
+- [Our Notion](https://www.notion.so/athensresearch/Athens-Research-67e1c6068cb449ff935d10e882fd9b05)
+- [Governance](https://github.com/athensresearch/athens/blob/master/GOVERNANCE.md)
+- [Code of Conduct](https://github.com/athensresearch/athens/blob/master/CODE_OF_CONDUCT.md)
 
-Athens is in development. If you want to run it, follow the setup instructions in [CONTRIBUTING.md](https://github.com/athensresearch/athens/blob/master/CONTRIBUTING.md).
+# Contribute
 
-# Community
+Athens is currently read-only and pre-alpha. If you want to run Athens or contribute, follow the instructions in [Contributing](https://github.com/athensresearch/athens/blob/master/CONTRIBUTING.md).
+
+# Patronize Us
+
+If you would like to join our list of backers and sponsors, please see our [OpenCollective](https://opencollective.com/athens).
+
+[1]: https://opencollective.com/athens
+[1.1]: https://opencollective.com/athens/tiers/backer.svg?avatarHeight=36
+[1.2]: https://opencollective.com/athens/tiers/sponsor.svg?avatarHeight=36
+
+[![Backers][1.1]][1]
+
+[![Sponsors][1.2]][1]
+
+# Join Us
 
 If you have any input on how you want this project to unfold, please join our Discord.
 
-Our Discord is a safe space, meant for learning and improvement (especially about Clojure!).
-
-We also talk about topics like visual & interactive knowledge graphs (HCI), knowledge markets (economics), open protocols (governance & philosophy), other applications of bi-directional links and graph DBs, and other Tools for Thought.
-
 You don't need to code to contribute. But it is encouraged 😉
 
-[![alt text][1.1]][1] 
-[![alt text][2.1]][2] 
+Our Discord community is a space for collaboration, innovation, and learning and teaching (especially about Clojure!).
 
-<!-- Discord Icon then link -->
-[1.1]: https://i.imgur.com/lTIZXqW.png
-[1]: https://discord.gg/5D7af48
+We chat about other Tools for Thought, [graph visualizations](https://github.com/athensresearch/athens/issues/21), [graph DBs, decentralized DBs, local first apps](https://github.com/athensresearch/athens/issues/9), blockchains, [open protocols, knowledge markets], [education](https://github.com/athensresearch/athens/blob/master/doc/ClojureFam.md), philosophy, and governance.
 
-<!-- Twitter Icon then link -->
-[2.1]: https://i.imgur.com/S41NYml.png
-[2]: https://twitter.com/AthensResearch
+We also love [Future of Coding topics](https://futureofcoding.org/episodes/046#question-thirteen-what-foc-topics-interest-you-most) such as visual programming, live programming, end-user programming, programming language theory, HCI, AR / VR / spatial software, AI / ML, and so on and so forth.
+
+Most Discord links expire to avoid spam bots! To get a Discord invite, tweet at us or ask an Athenian. 
+
+[![Twitter][2]][2.1]
+
+[2]: https://i.imgur.com/S41NYml.png
+[2.1]: https://twitter.com/AthensResearch
 
 ---
 
