@@ -41,6 +41,8 @@
 
   :aliases {"dev"          ["with-profile" "dev" "do"
                             ["run" "-m" "shadow.cljs.devtools.cli" "watch" "app"]]
+            "repl"         ["with-profile" "dev" "do"
+                            ["run" "-m" "shadow.cljs.devtools.cli" "clj-repl"]]
             "devcards"     ["with-profile" "dev" "do"
                             ["run" "-m" "shadow.cljs.devtools.cli" "watch" "devcards"]]
             "prod"         ["with-profile" "prod" "do"
